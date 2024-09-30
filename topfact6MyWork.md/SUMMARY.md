@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗺️ topfact6 MyWor](README.md)
+* [🗺️ topfact6 MyWork](README.md)
 
 ## Function areas
 
