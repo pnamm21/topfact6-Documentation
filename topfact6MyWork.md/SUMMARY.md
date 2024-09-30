@@ -5,6 +5,8 @@
 ## Function areas
 
 * [MyWork File](function-areas/mywork-file/README.md)
+  * [Barcode](function-areas/mywork-file/barcode.md)
+  * [Beleglisten](function-areas/mywork-file/beleglisten.md)
   * [Page 5](function-areas/mywork-file/page-5.md)
 * [MyWork QuickIndex](function-areas/mywork-quickindex/README.md)
   * [Page 6](function-areas/mywork-quickindex/page-6.md)
