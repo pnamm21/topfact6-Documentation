@@ -24,7 +24,7 @@
   * [Page 8](function-areas/mywork-reports/page-8.md)
 * [MyWork User settings](function-areas/quickindex/README.md)
   * [QuickIndexReset](function-areas/quickindex/quickindexreset.md)
-  * [Page](function-areas/quickindex/page.md)
+  * [Automatically save changes to index data in the QuickIndex](function-areas/quickindex/page.md)
 * [MyWork Voucher Lists](function-areas/mywork-voucher-lists/README.md)
   * [Page 9](function-areas/mywork-voucher-lists/page-9.md)
 * [MyWork Tasks](function-areas/mywork-tasks/README.md)
