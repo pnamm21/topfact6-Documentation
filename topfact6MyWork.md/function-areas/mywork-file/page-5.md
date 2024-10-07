@@ -18,6 +18,6 @@
 
 **Error Handling:** The method currently does not implement specific error handling. It is advisable to add error handling for potential issues when retrieving values or showing forms.
 
-**Link to the part of the code for this function:** Link
+**Link to the part of the code for this function:** [Link](https://services.topfact.de/wiki/pages/page?pageid=35845\&g=99da3d7b-ddec-429a-b75e-5bcddea2c627)
 
-**Link to the User Documentation:** [**Link**](https://services.topfact.de/wiki/pages/view?g=99da3d7b-ddec-429a-b75e-5bcddea2c627)
+**Link to the User Documentation:** [Link](https://services.topfact.de/wiki/pages/view?g=99da3d7b-ddec-429a-b75e-5bcddea2c627)
