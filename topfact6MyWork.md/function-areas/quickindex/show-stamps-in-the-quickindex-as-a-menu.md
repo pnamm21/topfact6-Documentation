@@ -1,12 +1,12 @@
 # Show stamps in the QuickIndex as a menu
 
-#### Why Use This Feature?
+#### Why This Option?
 
-The `ShowQuickCheckIconsSmall` option allows users to customize the appearance of check icons in the QuickIndex area of the application, enhancing the user experience by accommodating personal preferences for icon size.
+Displaying stamps in the QuickIndex as a menu provides users with a streamlined way to access and select different stamps without cluttering the interface. This option enhances user experience by allowing users to easily choose from various stamps when managing documents.
 
 #### Functionality
 
-The setting is configured when the user interacts with the `cbShowQuickCheckIconsSmall` checkbox. If checked, the QuickIndex will display smaller check icons; if unchecked, the icons will revert to their default size.
+The `ShowQuickCheckIconsSmall` property is controlled by the state of a corresponding checkbox in the user interface. When checked, stamps will be presented as a dropdown menu in the QuickIndex panel, enabling users to select their desired stamp efficiently.
 
 #### Description:
 
@@ -19,15 +19,11 @@ The setting is configured when the user interacts with the `cbShowQuickCheckIcon
     * If `cbShowQuickCheckIconsSmall.Checked` is true, the QuickIndex will display check icons in a smaller size.
   * **When Unchecked:**
     * If the checkbox is false, the check icons will display in their default size.
-*   **Saving Preferences:** The user’s choice is saved through the following line of code:
+*   **Example:** The user’s choice is saved through the following line of code:
 
     ```csharp
     csharpCode kopierenAppData.AppUserSettings.QuickIndexOptions.ShowQuickCheckIconsSmall = cbShowQuickCheckIconsSmall.Checked;
     ```
-
-#### Popup Message
-
-* A confirmation message may be displayed to inform the user that the settings have been applied successfully.
 
 #### Error Handling
 

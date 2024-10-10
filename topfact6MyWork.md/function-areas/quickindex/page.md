@@ -1,7 +1,5 @@
 # Automatically save changes to index data in the QuickIndex
 
-**ShowQuickIndexCloseButton**
-
 **Why this option?**\
 The "Close" button in the QuickIndex panel provides users with a convenient way to close the QuickIndex view. However, not all users may need this button visible at all times. This option allows the user to hide or show the "Close" button based on their preference.
 
