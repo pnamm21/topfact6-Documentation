@@ -27,6 +27,7 @@
   * [Automatically save changes to index data in the QuickIndex](function-areas/quickindex/page.md)
   * [Activate “ blurred” search to search for documents that match the \*search\* pattern](function-areas/quickindex/activate-blurred-search-to-search-for-documents-that-match-the-search-pattern.md)
   * [Use "Enter" to Move to the Next Field in Search Dialog](function-areas/quickindex/use-enter-to-move-to-the-next-field-in-search-dialog.md)
+  * [Show stamps in the QuickIndex as a menu](function-areas/quickindex/show-stamps-in-the-quickindex-as-a-menu.md)
 * [MyWork Voucher Lists](function-areas/mywork-voucher-lists/README.md)
   * [Page 9](function-areas/mywork-voucher-lists/page-9.md)
 * [MyWork Tasks](function-areas/mywork-tasks/README.md)
