@@ -13,6 +13,9 @@
 * **Popup Message:** After resetting, a message appears: "The QuickIndex settings have been reset."
 * **Error Handling:** If an error occurs, it is suppressed in the `catch` block, without showing a specific error message.
 
-**Link to the part of the code for this function:** [<mark style="color:blue;">Link</mark>](https://github.com/topfact-AG/topfact6/blob/97253914e8f78c153a791c816fd44a15f42987ed/topfact.MyWork/topfact.MyWork/Forms/Settings/frmUserSettings.cs#L378)
+***
 
-**Link to the User Documentation:** [<mark style="color:blue;">Link</mark>](https://services.topfact.de/wiki/pages/view?g=60448220-ae05-4bcc-9b05-f1d6f1fc058d)
+**Link to the part of the code for this function**:[<mark style="color:blue;">Link</mark>](https://github.com/topfact-AG/topfact6/blob/97253914e8f78c153a791c816fd44a15f42987ed/topfact.MyWork/topfact.MyWork/Forms/Settings/frmUserSettings.cs#L378)\
+**Link to the User Documentation**:[ ](https://services.topfact.de/wiki/pages/view?g=a011d893-d0d9-45d4-8337-510ee3ff2f6c)[<mark style="color:blue;">Link</mark>](https://services.topfact.de/wiki/pages/view?g=60448220-ae05-4bcc-9b05-f1d6f1fc058d)
+
+***
