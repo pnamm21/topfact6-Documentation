@@ -31,7 +31,7 @@ AppData.AppUserSettings.MyWorkOptions.ShowQuickIndexCloseButton = cbShowQuickInd
 
 ***
 
-**Link to the part of the code for this function**: [Link](https://github.com/topfact-AG/topfact6/blob/aee3a94d411bef87aad8b7910abea60216861305/topfact.MyWork/topfact.MyWork/Forms/Settings/frmUserSettings.cs#L264)\
-**Link to the User Documentation**:[ ](https://services.topfact.de/wiki/pages/view?g=a011d893-d0d9-45d4-8337-510ee3ff2f6c)[Link](https://services.topfact.de/wiki/pages/view?g=a011d893-d0d9-45d4-8337-510ee3ff2f6c)
+**Link to the part of the code for this function**: [GitHub](https://github.com/topfact-AG/topfact6/blob/aee3a94d411bef87aad8b7910abea60216861305/topfact.MyWork/topfact.MyWork/Forms/Settings/frmUserSettings.cs#L264) \
+**Link to the User Documentation**:[ ](https://services.topfact.de/wiki/pages/view?g=a011d893-d0d9-45d4-8337-510ee3ff2f6c)[topfactwiki](https://services.topfact.de/wiki/pages/view?g=a011d893-d0d9-45d4-8337-510ee3ff2f6c)
 
 ***
